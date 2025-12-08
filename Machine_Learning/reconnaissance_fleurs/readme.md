@@ -9,13 +9,13 @@
 
 ## 📌 Descrição
 
-Este projeto foi desenvolvido para explorar conceitos de **Ciência de Dados** e **Machine Learning** por meio da análise de dados de flores.
+Este projeto foi desenvolvido para explorar conceitos de **Ciência de Dados** e **Machine Learning** por meio da análise de imagens de flores.
 
 O objetivo é demonstrar:
-- Preparação e limpeza de dados
+- Criação de um modelo
 - Análise exploratória (EDA)
 - Treinamento de modelos de classificação
-- Visualização de resultados
+- Visualização e analise de resultados
 
 ---
 
