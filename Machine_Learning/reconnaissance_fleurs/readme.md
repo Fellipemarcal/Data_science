@@ -45,9 +45,4 @@ O objetivo é demonstrar:
 
 ---
 
-## 🚀 Como executar o projeto
-
-### 1. Clonar o repositório
-```bash
-git clone https://github.com/Fellipemarcal/NOME_DO_REPOSITORIO.git
 
