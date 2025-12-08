@@ -1,1 +1,53 @@
+<p align="center">
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="240" />
+</p>
+
+<h1 align="center">🌸 Flowers Project</h1>
+<h3 align="center">Análise de Dados • Machine Learning • Tecnologia</h3>
+
+---
+
+## 📌 Descrição
+
+Este projeto foi desenvolvido para explorar conceitos de **Ciência de Dados** e **Machine Learning** por meio da análise de dados de flores.
+
+O objetivo é demonstrar:
+- Preparação e limpeza de dados
+- Análise exploratória (EDA)
+- Treinamento de modelos de classificação
+- Visualização de resultados
+
+---
+
+## 🎯 Objetivos do projeto
+
+- ✅ Compreender um conjunto de dados real  
+- ✅ Aplicar técnicas de Data Science  
+- ✅ Testar modelos de Machine Learning  
+- ✅ Visualizar e interpretar os resultados  
+
+---
+
+## 🧪 Tecnologias utilizadas
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,jupyter,numpy,pandas,sklearn,matplotlib,seaborn,github" />
+</p>
+
+---
+
+## ⚙️ Funcionalidades
+
+- 📊 Análise exploratória de dados  
+- 🧹 Limpeza e preparação dos dados  
+- 🤖 Treinamento de modelos de classificação  
+- 📈 Visualizações gráficas dos resultados  
+
+---
+
+## 🚀 Como executar o projeto
+
+### 1. Clonar o repositório
+```bash
+git clone https://github.com/Fellipemarcal/NOME_DO_REPOSITORIO.git
 
