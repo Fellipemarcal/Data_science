@@ -69,12 +69,9 @@ O fluxo principal segue estas etapas:
 ```bash
 📁 Sales_Forecasting
  ├── 📁 data
- │    └── sales.csv               # Dataset de vendas
+ │    └── train.csv               # Dataset de vendas
  ├── 📁 src
- │    ├── preprocess.py           # Limpeza e preparação dos dados
- │    ├── train_model.py          # Treino do modelo
- │    ├── forecast.py             # Geração de previsões
- │    └── utils.py                # Funções auxiliares
+ │    ├── analyse.ipynb           # Limpeza e preparação dos dados                   
  ├── 📁 results
  │    ├── predictions.png         # Gráficos gerados
  │    └── model.pkl               # Modelo treinado
