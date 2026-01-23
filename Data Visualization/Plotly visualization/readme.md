@@ -140,6 +140,85 @@ sendo extremamente útil em análises complexas e visualizações multidimension
 <img src="Images/3d scatter gif.gif" width="750"/>
 
 <hr>
+<hr>
+
+<h2>🧠 Recursos Interativos Avançados</h2>
+
+<p>
+Além dos gráficos tradicionais, este projeto explora recursos avançados de interatividade
+disponíveis no Plotly, permitindo uma experiência muito mais dinâmica e exploratória.
+</p>
+
+<p>
+Esses recursos são amplamente utilizados em <b>dashboards analíticos</b>, <b>aplicações de BI</b>
+e <b>produtos de dados</b>.
+</p>
+
+<hr>
+
+<h3>🎛️ Botões Interativos (Buttons)</h3>
+
+<p>
+Os botões permitem que o usuário altere dinamicamente o comportamento ou a aparência do gráfico,
+como mudar tipos de visualização, destacar dados específicos ou alternar entre métricas.
+</p>
+
+<p><i>Casos de uso comuns:</i> alternar entre gráficos, ligar/desligar séries, filtros rápidos.</p>
+
+<img src="Images/button plotly gif.gif" width="750"/>
+
+<hr>
+
+<h3>📂 Menus Suspensos (Dropdown Menus)</h3>
+
+<p>
+Os menus suspensos oferecem uma forma elegante de permitir múltiplas seleções dentro de um mesmo gráfico,
+sem a necessidade de criar várias visualizações separadas.
+</p>
+
+<p><i>Casos de uso comuns:</i> seleção de categorias, variáveis, regiões ou períodos.</p>
+
+<img src="Images/drop down menu gif.gif" width="750"/>
+
+<hr>
+
+<h3>🎚️ Sliders Interativos</h3>
+
+<p>
+Os sliders possibilitam o controle contínuo de variáveis, como tempo ou faixas de valores,
+tornando a análise mais intuitiva e fluida.
+</p>
+
+<p><i>Casos de uso comuns:</i> evolução temporal, simulações, análise dinâmica de cenários.</p>
+
+<img src="Images/slider plotly gif.gif" width="750"/>
+
+<hr>
+
+<h3>🎨 Estilização e Customização</h3>
+
+<p>
+O projeto também demonstra como personalizar gráficos utilizando cores, layouts,
+anotações e estilos visuais avançados, melhorando a legibilidade e a comunicação visual.
+</p>
+
+<p><i>Casos de uso comuns:</i> dashboards corporativos, relatórios executivos, produtos de dados.</p>
+
+<img src="Images/styled box gif.gif" width="750"/>
+
+<hr>
+
+<h3>🧊 Visualizações 3D Estilizadas</h3>
+
+<p>
+Além do gráfico 3D tradicional, o projeto apresenta versões estilizadas,
+com melhor controle visual e interatividade aprimorada.
+</p>
+
+<p><i>Casos de uso comuns:</i> análise multidimensional, machine learning, visualização científica.</p>
+
+<img src="Images/styled 3d scatter gif.gif" width="750"/>
+
 
 <h2>🛠️ Tecnologias Utilizadas</h2>
 
