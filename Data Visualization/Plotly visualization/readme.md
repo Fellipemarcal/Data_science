@@ -140,7 +140,6 @@ sendo extremamente útil em análises complexas e visualizações multidimension
 <img src="Images/3d scatter gif.gif" width="750"/>
 
 <hr>
-<hr>
 
 <h2>🧠 Recursos Interativos Avançados</h2>
 
@@ -193,31 +192,143 @@ tornando a análise mais intuitiva e fluida.
 
 <img src="Images/slider plotly gif.gif" width="750"/>
 
-<hr>
 
-<h3>🎨 Estilização e Customização</h3>
+<h2>🎨 Customizações Avançadas de Visualização</h2>
 
 <p>
-O projeto também demonstra como personalizar gráficos utilizando cores, layouts,
-anotações e estilos visuais avançados, melhorando a legibilidade e a comunicação visual.
+Esta seção demonstra como o Plotly permite um alto nível de personalização visual,
+transformando gráficos simples em visualizações profissionais prontas para uso em
+dashboards, relatórios executivos e produtos de dados.
 </p>
 
-<p><i>Casos de uso comuns:</i> dashboards corporativos, relatórios executivos, produtos de dados.</p>
+<hr>
+
+<h3>🎯 Customização de Cores</h3>
+
+<p>
+A escolha adequada de cores é essencial para melhorar a interpretação dos dados
+e destacar padrões relevantes.
+</p>
+
+<p><i>Casos de uso:</i> diferenciação de categorias, destaque de métricas críticas,
+padronização visual corporativa.</p>
+
+<img src="Images/line color.png" width="750"/>
+
+<hr>
+
+<h3>📐 Ajuste de Layout e Espaçamento</h3>
+
+<p>
+O projeto demonstra como configurar margens, títulos, legendas e alinhamentos,
+garantindo clareza visual e melhor experiência do usuário.
+</p>
+
+<p><i>Casos de uso:</i> dashboards organizados, relatórios profissionais,
+apresentações executivas.</p>
+
+<img src="Images/customized scatter.png" width="750"/>
+
+<hr>
+
+<h3>📋 Histogramas Customizados</h3>
+
+<p>
+Além do histograma tradicional, são apresentadas variações customizadas com
+ajustes de bins, cores e layout.
+</p>
+
+<p><i>Casos de uso:</i> análise estatística detalhada, detecção de padrões
+e outliers.</p>
+
+<img src="Images/customized histogram.png" width="750"/>
+
+<hr>
+
+<h3>🥧 Pie Charts Customizados</h3>
+
+<p>
+Os gráficos de pizza também são apresentados com personalizações visuais,
+permitindo melhor leitura das proporções e categorias.
+</p>
+
+<p><i>Casos de uso:</i> distribuição percentual, relatórios gerenciais,
+indicadores de performance.</p>
+
+<img src="Images/customized piechart.png" width="750"/>
+
+<hr>
+
+<h3>🎻 Violin Plot Estilizado</h3>
+
+<p>
+O projeto inclui versões estilizadas do Violin Plot, combinando densidade,
+estatísticas e estética visual.
+</p>
+
+<p><i>Casos de uso:</i> análise comparativa de distribuições,
+exploração estatística avançada.</p>
+
+<img src="Images/styled violin plot gif.gif" width="750"/>
+
+<hr>
+
+<h3>📦 Box Plot Estilizado</h3>
+
+<p>
+O Box Plot estilizado melhora a leitura de quartis, medianas e outliers,
+com cores e layout aprimorados.
+</p>
+
+<p><i>Casos de uso:</i> análise estatística, controle de qualidade,
+comparação de grupos.</p>
 
 <img src="Images/styled box gif.gif" width="750"/>
 
 <hr>
 
-<h3>🧊 Visualizações 3D Estilizadas</h3>
+<h3>🧊 Scatter 3D Estilizado</h3>
 
 <p>
-Além do gráfico 3D tradicional, o projeto apresenta versões estilizadas,
-com melhor controle visual e interatividade aprimorada.
+O Scatter 3D estilizado apresenta melhorias visuais e interativas,
+facilitando a análise de dados multidimensionais.
 </p>
 
-<p><i>Casos de uso comuns:</i> análise multidimensional, machine learning, visualização científica.</p>
+<p><i>Casos de uso:</i> machine learning, análise científica,
+visualização de clusters.</p>
 
 <img src="Images/styled 3d scatter gif.gif" width="750"/>
+
+<hr>
+
+<h3>🧩 Combinação de Interatividade e Estilo</h3>
+
+<p>
+Um dos diferenciais do projeto é a combinação de interatividade
+(botões, menus e sliders) com customizações visuais,
+criando experiências ricas e intuitivas.
+</p>
+
+<p><i>Casos de uso:</i> dashboards dinâmicos, aplicações analíticas,
+produtos de dados interativos.</p>
+
+<img src="Images/button plotly gif.gif" width="750"/>
+
+<hr>
+
+<h2>🏁 Conclusão</h2>
+
+<p>
+Este projeto demonstra, de forma prática e visual, o potencial do Plotly
+para criar visualizações interativas, personalizáveis e profissionais,
+aplicáveis em diversos contextos de Data Science e Análise de Dados.
+</p>
+
+<p>
+A combinação de interatividade, estética e clareza torna o Plotly
+uma excelente escolha para projetos modernos de visualização.
+</p>
+
 
 
 <h2>🛠️ Tecnologias Utilizadas</h2>
@@ -253,13 +364,13 @@ facilitando a organização e manutenção do projeto.
 <h2>📚 Referência</h2>
 
 <p>
-Este projeto foi inspirado no livro:
+Este projeto foi inspirado nos livros:
 </p>
-<p>
-  1° Guia do python para Data Science
-  2° Python para analíse de dados
-  3° Python em Data Science, conhecendo a biblioteca pandas
-</p>
+<ul>
+  <li>Guia do python para Data Science </li>
+  <li>Python para análise de dados</li>
+  <li>Data science, descobrindo a biblioteca Pandas</li>
+</ul>
 
 <hr>
 
