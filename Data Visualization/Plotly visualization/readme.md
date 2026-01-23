@@ -174,7 +174,12 @@ facilitando a organização e manutenção do projeto.
 <h2>📚 Referência</h2>
 
 <p>
-Este projeto foi inspirado no artigo:
+Este projeto foi inspirado no livro:
+</p>
+<p>
+  1° Guia do python para Data Science
+  2° Python para analíse de dados
+  3° Python em Data Science, conhecendo a biblioteca pandas
 </p>
 
 <hr>
