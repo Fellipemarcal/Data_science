@@ -1,7 +1,11 @@
 <h1 align="center">📊 Plotly Data Visualization in Python</h1>
 
 <p align="center">
-Visualizações interativas de dados utilizando a biblioteca Plotly em Python
+<b>Interactive Data Visualization for Data Analysis, Analytics and Data Science</b>
+</p>
+
+<p align="center">
+Projeto focado na criação de visualizações interativas, modernas e informativas utilizando a biblioteca Plotly em Python.
 </p>
 
 <hr>
@@ -9,101 +13,131 @@ Visualizações interativas de dados utilizando a biblioteca Plotly em Python
 <h2>📌 Visão Geral</h2>
 
 <p>
-Este projeto apresenta exemplos práticos de visualização de dados com <b>Plotly</b>,
-uma biblioteca poderosa para criação de gráficos interativos amplamente utilizada em
-<b>Data Science</b>, <b>Analytics</b> e <b>Dashboards</b>.
+Este repositório apresenta uma coleção de exemplos práticos de visualização de dados desenvolvidos com
+<b>Plotly</b>, uma das bibliotecas mais utilizadas para criação de gráficos interativos no ecossistema Python.
+</p>
+
+<p>
+O projeto é voltado para estudantes, analistas de dados e profissionais de Data Science que desejam
+explorar diferentes tipos de gráficos e compreender quando e por que utilizá-los em análises reais.
 </p>
 
 <hr>
 
-<h2>📊 Exemplos de Gráficos e Casos de Uso</h2>
+<h2>🎯 Objetivos do Projeto</h2>
+
+<ul>
+  <li>Demonstrar boas práticas em visualização de dados</li>
+  <li>Explorar gráficos interativos e responsivos</li>
+  <li>Apoiar análises exploratórias (EDA)</li>
+  <li>Servir como material de estudo e portfólio</li>
+</ul>
+
+<hr>
+
+<h2>📊 Tipos de Gráficos e Casos de Uso</h2>
 
 <h3>📈 Line Chart (Gráfico de Linha)</h3>
 
 <p>
-Utilizado para analisar <b>tendências ao longo do tempo</b>. Muito comum em séries temporais,
-como crescimento de vendas, evolução de preços, métricas de desempenho e monitoramento contínuo.
+O gráfico de linha é amplamente utilizado para representar <b>tendências ao longo do tempo</b>.
+É essencial em análises de séries temporais, permitindo identificar padrões, sazonalidades e variações contínuas.
 </p>
 
-<img src="Images/line chart gif.gif" width="700"/>
+<p><i>Casos de uso comuns:</i> evolução de vendas, métricas de performance, preços de ativos financeiros.</p>
+
+<img src="Images/line chart gif.gif" width="750"/>
 
 <hr>
 
 <h3>📊 Bar Chart (Gráfico de Barras)</h3>
 
 <p>
-Ideal para <b>comparar valores entre categorias</b>, como vendas por região,
-quantidade por produto ou desempenho entre equipes.
+O gráfico de barras é ideal para <b>comparar valores entre categorias</b>.
+Ele facilita a visualização de diferenças e rankings entre grupos distintos.
 </p>
 
-<img src="Images/bar chart gif.gif" width="700"/>
+<p><i>Casos de uso comuns:</i> vendas por região, quantidade por produto, desempenho por equipe.</p>
+
+<img src="Images/bar chart gif.gif" width="750"/>
 
 <hr>
 
 <h3>🔵 Scatter Plot (Gráfico de Dispersão)</h3>
 
 <p>
-Usado para analisar a <b>relação entre duas variáveis</b> e identificar padrões,
-correlações, clusters ou outliers em conjuntos de dados.
+O scatter plot permite analisar a <b>relação entre duas variáveis numéricas</b>.
+É muito utilizado para identificar correlações, padrões, clusters e outliers.
 </p>
 
-<img src="Images/scatter.png" width="700"/>
+<p><i>Casos de uso comuns:</i> análise exploratória, estudos estatísticos, validação de hipóteses.</p>
+
+<img src="Images/scatter.png" width="750"/>
 
 <hr>
 
 <h3>📋 Histogram (Histograma)</h3>
 
 <p>
-Permite visualizar a <b>distribuição de frequência</b> de uma variável numérica,
-sendo muito utilizado para análise estatística e entendimento do comportamento dos dados.
+O histograma representa a <b>distribuição de frequência</b> de uma variável numérica,
+auxiliando na compreensão do comportamento dos dados e sua dispersão.
 </p>
 
-<img src="Images/histogram.png" width="700"/>
+<p><i>Casos de uso comuns:</i> análise estatística, identificação de assimetrias e concentração de valores.</p>
+
+<img src="Images/histogram.png" width="750"/>
 
 <hr>
 
 <h3>🥧 Pie Chart (Gráfico de Pizza)</h3>
 
 <p>
-Indicado para mostrar <b>proporções e percentuais</b>, facilitando a visualização
-da participação de cada categoria em um todo.
+O gráfico de pizza é utilizado para mostrar <b>proporções e participações percentuais</b>
+de categorias em relação a um total.
 </p>
 
-<img src="Images/pie.png" width="700"/>
+<p><i>Casos de uso comuns:</i> participação de mercado, distribuição percentual de categorias.</p>
+
+<img src="Images/pie.png" width="750"/>
 
 <hr>
 
 <h3>📦 Box Plot (Gráfico de Caixa)</h3>
 
 <p>
-Muito utilizado em análises estatísticas para identificar <b>mediana,
-quartis, dispersão e outliers</b>, permitindo comparações entre diferentes grupos.
+O box plot é uma ferramenta estatística poderosa para analisar <b>dispersão, mediana,
+quartis e outliers</b>. Facilita comparações entre diferentes grupos de dados.
 </p>
 
-<img src="Images/box.png" width="700"/>
+<p><i>Casos de uso comuns:</i> análise estatística comparativa, detecção de valores atípicos.</p>
+
+<img src="Images/box.png" width="750"/>
 
 <hr>
 
 <h3>🎻 Violin Plot</h3>
 
 <p>
-Combina informações do box plot com a <b>densidade dos dados</b>,
-sendo ideal para análises mais profundas da distribuição e variabilidade.
+O violin plot combina informações do box plot com a <b>densidade de probabilidade</b>,
+permitindo uma análise mais detalhada da distribuição dos dados.
 </p>
 
-<img src="Images/violin plot gif.gif" width="700"/>
+<p><i>Casos de uso comuns:</i> análises avançadas de distribuição, comparação de grupos.</p>
+
+<img src="Images/violin plot gif.gif" width="750"/>
 
 <hr>
 
 <h3>🧊 3D Scatter Plot</h3>
 
 <p>
-Permite visualizar relações entre <b>três variáveis simultaneamente</b>,
-sendo muito utilizado em projetos avançados de análise exploratória,
-machine learning e visualização científica.
+O gráfico de dispersão 3D possibilita a visualização simultânea de <b>três variáveis</b>,
+sendo extremamente útil em análises complexas e visualizações multidimensionais.
 </p>
 
-<img src="Images/3d scatter gif.gif" width="700"/>
+<p><i>Casos de uso comuns:</i> análise exploratória avançada, machine learning, visualização científica.</p>
+
+<img src="Images/3d scatter gif.gif" width="750"/>
 
 <hr>
 
@@ -117,20 +151,30 @@ machine learning e visualização científica.
 
 <hr>
 
-<h2>📂 Organização do Projeto</h2>
+<h2>📂 Estrutura do Repositório</h2>
 
 <p>
-As imagens e GIFs apresentados neste README estão armazenados na pasta:
+A pasta <b>Images/</b> contém todas as imagens e GIFs utilizados neste README,
+facilitando a organização e manutenção do projeto.
 </p>
 
-<p><b>Images/</b></p>
+<hr>
+
+<h2>👤 Público-Alvo</h2>
+
+<ul>
+  <li>Estudantes de Data Science</li>
+  <li>Analistas de Dados</li>
+  <li>Profissionais de Analytics</li>
+  <li>Entusiastas de visualização de dados</li>
+</ul>
 
 <hr>
 
 <h2>📚 Referência</h2>
 
 <p>
-Projeto inspirado no artigo:
+Este projeto foi inspirado no artigo:
 </p>
 
 <p>
@@ -143,6 +187,6 @@ GeeksforGeeks
 <h2>📄 Licença</h2>
 
 <p>
-Projeto com finalidade educacional, voltado para estudo e demonstração
-de visualizações interativas com Plotly.
+Projeto desenvolvido para fins educacionais e demonstrativos.
+Livre para estudo, adaptação e aprendizado.
 </p>
