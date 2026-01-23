@@ -177,11 +177,6 @@ facilitando a organização e manutenção do projeto.
 Este projeto foi inspirado no artigo:
 </p>
 
-<p>
-<b>Using Plotly for Interactive Data Visualization in Python</b><br>
-GeeksforGeeks
-</p>
-
 <hr>
 
 <h2>📄 Licença</h2>
