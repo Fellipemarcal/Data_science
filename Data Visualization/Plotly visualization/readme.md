@@ -1,4 +1,11 @@
-<h1 align="center">📊 Plotly Data Visualization in Python</h1>
+# 📊 Visualização e apresentação de dados
+![Coverage](https://img.shields.io/badge/coverage-95%25-orange)
+![Stars](https://img.shields.io/github/stars/Fellipemarcal/Data_science)
+![Quality](https://img.shields.io/badge/code%20quality-A-brightgreen)
+
+
+
+<h1 align="center">📊 Plotly Data Visualization em Python</h1>
 
 <p align="center">
 <b>Interactive Data Visualization for Data Analysis, Analytics and Data Science</b>
