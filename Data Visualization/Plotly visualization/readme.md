@@ -1,102 +1,110 @@
-# 📊 Plotly Data Visualization in Python
+<h1 align="center">📊 Plotly Data Visualization in Python</h1>
 
-## 📌 Visão Geral
+<p align="center">
+Visualizações interativas de dados utilizando a biblioteca Plotly em Python
+</p>
 
-Este projeto apresenta o uso da biblioteca **Plotly** em Python para criação de **visualizações de dados interativas**.  
-O foco é demonstrar, de forma clara e didática, os principais tipos de gráficos utilizados em **Data Science** e **Análise de Dados**.
+<hr>
 
----
+<h2>📌 Visão Geral</h2>
 
-## 🚀 Sobre o Projeto
+<p>
+Este projeto demonstra como utilizar o <b>Plotly</b> para criar gráficos interativos e visualizações modernas,
+aplicadas em <b>Data Science</b> e <b>Análise de Dados</b>.
+</p>
 
-O objetivo deste repositório é mostrar como diferentes gráficos podem ser usados para explorar, analisar e comunicar dados de forma visual e interativa.
+<p>
+Cada visualização possui seu próprio exemplo, permitindo fácil entendimento e reutilização.
+</p>
 
-Os exemplos abordam desde gráficos simples até visualizações mais avançadas, incluindo gráficos tridimensionais.
+<hr>
 
----
+<h2>🚀 Sobre o Projeto</h2>
 
-## 📦 Dependências
+<p>
+O foco do projeto é apresentar os principais tipos de gráficos utilizados na análise exploratória de dados,
+incluindo gráficos estatísticos, categóricos e tridimensionais.
+</p>
 
-Para executar o projeto, é necessário ter instaladas as bibliotecas:
+<hr>
 
-- Python  
-- Plotly  
-- Pandas  
+<h2>📊 Exemplos de Gráficos</h2>
 
----
+<h3>📈 Line Chart</h3>
+<img src="Images/line chart gif.gif" width="700"/>
 
-## ▶️ Como Executar
+<hr>
 
-Cada gráfico está organizado em um arquivo separado.  
-Basta executar o arquivo correspondente ao tipo de gráfico desejado para visualizar o resultado.
+<h3>📊 Bar Chart</h3>
+<img src="Images/bar chart gif.gif" width="700"/>
 
----
+<hr>
 
-## 📊 Exemplos de Gráficos
+<h3>🔵 Scatter Plot</h3>
+<img src="Images/scatter.png" width="700"/>
 
-### 📈 Line Chart
-Gráfico de linha utilizado para análise de tendências ao longo do tempo.
+<hr>
 
----
+<h3>📋 Histogram</h3>
+<img src="Images/histogram.png" width="700"/>
 
-### 📊 Bar Chart
-Gráfico de barras ideal para comparação entre categorias.
+<hr>
 
----
+<h3>🥧 Pie Chart</h3>
+<img src="Images/pie.png" width="700"/>
 
-### 🔵 Scatter Plot
-Gráfico de dispersão usado para analisar correlação entre variáveis.
+<hr>
 
----
+<h3>📦 Box Plot</h3>
+<img src="Images/box.png" width="700"/>
 
-### 📋 Histogram
-Histograma que mostra a distribuição de frequência dos dados.
+<hr>
 
----
+<h3>🎻 Violin Plot</h3>
+<img src="Images/violin plot gif.gif" width="700"/>
 
-### 🥧 Pie Chart
-Gráfico de pizza utilizado para representar proporções.
+<hr>
 
----
+<h3>🧊 3D Scatter Plot</h3>
+<img src="Images/3d scatter gif.gif" width="700"/>
 
-### 📦 Box Plot
-Gráfico estatístico que apresenta mediana, quartis e possíveis outliers.
+<hr>
 
----
+<h2>🛠️ Tecnologias Utilizadas</h2>
 
-### 🎻 Violin Plot
-Combinação de box plot com distribuição de densidade dos dados.
+<ul>
+  <li>Python</li>
+  <li>Plotly</li>
+  <li>Pandas</li>
+</ul>
 
----
+<hr>
 
-### 🧊 3D Scatter Plot
-Visualização tridimensional para análises mais avançadas.
+<h2>📂 Organização</h2>
 
----
+<p>
+As imagens e GIFs utilizados neste README estão armazenados na pasta:
+</p>
 
-## 📂 Estrutura do Projeto
+<p><b>Images/</b></p>
 
-O projeto está organizado de forma simples, com um arquivo para cada tipo de gráfico, facilitando o entendimento e a manutenção.
+<hr>
 
----
+<h2>📚 Referência</h2>
 
-## 🛠️ Tecnologias Utilizadas
+<p>
+Projeto baseado no artigo:
+</p>
 
-- Python  
-- Plotly  
-- Pandas  
-
----
-
-## 📚 Referência
-
-Este projeto é baseado no tutorial:
-
-**Using Plotly for Interactive Data Visualization in Python**  
+<p>
+<b>Using Plotly for Interactive Data Visualization in Python</b><br>
 GeeksforGeeks
+</p>
 
----
+<hr>
 
-## 📄 Licença
+<h2>📄 Licença</h2>
 
+<p>
 Este projeto é destinado a fins educacionais e de aprendizado.
+</p>
