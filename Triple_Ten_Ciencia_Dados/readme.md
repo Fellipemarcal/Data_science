@@ -9,17 +9,6 @@ Trata-se de um espaço exclusivo para os trabalhos acadêmicos realizados ao lon
 
 ---
 
-### ⚠️ Importante
-
-Este não é o meu repositório principal no GitHub.  
-Ele é destinado exclusivamente às atividades e projetos desenvolvidos durante o curso.
-
-Para acessar meus projetos pessoais e profissionais:
-
-👉 [Inserir link do repositório principal aqui]
-
----
-
 ### 🎯 Objetivos
 
 - Aplicar na prática os conceitos de Data Science
